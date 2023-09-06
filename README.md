@@ -9,9 +9,9 @@
 
 <br>
 
-- 🔭 I’m Studying **Cloud Platform, Linux**
+- 📖 I’m Studying **Cloud Platform, Linux**
 
-- 🌱 I’m currently learning **Kubernetes, CICD**
+- 🌱 I’m currently learning **Kubernetes, CI/CD**
 
 - 📫 How to reach me **code.ondacloud@gmail.com**
 
