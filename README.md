@@ -19,7 +19,7 @@
 <!--My Skills-->
 <div align="center">
 
-  ## Skills
+  ## 🖊️ Skills
 
 
 <!--My Skills - Icon-->
@@ -45,7 +45,7 @@
 <!--My Profile-->
 <div align="center">
   
-  ## My Profile  
+  ## 💾 My Profile  
 
 <!--My Profile - Icon-->
 <p>
