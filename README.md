@@ -32,6 +32,8 @@
 <!--My Profile - Icon-->
 <p>
   <a href="https://www.instagram.com/onda_0809/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://velog.io/@on_cloud/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://ondacloud.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </p>
 
 </div>
