@@ -15,13 +15,6 @@
 
 - 📫 How to reach me **code.ondacloud@.com**
 
-<div align="left">
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junseong8299)](https://solved.ac/junseong8299)
-
-</div>
-
-
 <!--My Skills-->
 <div align="center">
 
