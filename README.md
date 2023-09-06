@@ -11,15 +11,16 @@
 
 - 📖 I’m Studying **Cloud Platform, Linux**
 
-- 🌱 I’m currently learning **Kubernetes, CI/CD**
-
-- 📫 How to reach me **code.ondacloud@.com**
-
 <div align="right">
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junseong8299)](https://solved.ac/junseong8299)
 
 </div>
+
+- 🌱 I’m currently learning **Kubernetes, CI/CD**
+
+- 📫 How to reach me **code.ondacloud@.com**
+
 
 <!--My Skills-->
 <div align="center">
