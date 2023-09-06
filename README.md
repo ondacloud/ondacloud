@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<a href="https://www.instagram.com/onda_0809//" target="_blank"><img src="https://img.shields.io/badge/suhshin-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<p>
+  <a href="https://www.instagram.com/onda_0809//" target="_blank"><img src="https://img.shields.io/badge/suhshin-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</p>
