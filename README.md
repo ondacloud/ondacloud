@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, CICD**
 
-- 📫 How to reach me **ondacloud@gmail.com**
+- 📫 How to reach me **code.ondacloud@gmail.com**
 
 
 <!--My Skills-->
