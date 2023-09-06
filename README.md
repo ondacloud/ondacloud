@@ -15,11 +15,12 @@
 
 - 📫 How to reach me **code.ondacloud@gmail.com**
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junseong8299)](https://solved.ac/junseong8299)
 
 <!--My Skills-->
 <div align="center">
 
-  ## 🖊️ Tech Skills
+  ## 🖊️ Skills
 
 
 <!--My Skills - Icon-->
@@ -56,4 +57,3 @@
 
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junseong8299)](https://solved.ac/junseong8299)
