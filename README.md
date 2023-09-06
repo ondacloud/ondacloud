@@ -13,9 +13,13 @@
 
 - 🌱 I’m currently learning **Kubernetes, CI/CD**
 
-- 📫 How to reach me **code.ondacloud@gmail.com**
+- 📫 How to reach me **code.ondacloud@.com**
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junseong8299)](https://solved.ac/junseong8299)
+<div align="right">
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junseong8299)](https://solved.ac/junseong8299)
+
+</div>
 
 <!--My Skills-->
 <div align="center">
