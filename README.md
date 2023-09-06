@@ -19,7 +19,7 @@
 <!--My Skills-->
 <div align="center">
 
-  ## 🖊️ Skills
+  ## 🖊️ Tech Skills
 
 
 <!--My Skills - Icon-->
