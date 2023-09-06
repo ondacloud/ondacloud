@@ -55,3 +55,5 @@
 </p>
 
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=junseong8299)](https://solved.ac/junseong8299)
