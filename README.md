@@ -11,7 +11,7 @@
 
 - 📖 I’m Studying **Cloud Platform, Linux**
 
-- 🌱 I’m currently learning **Kubernetes, CI/CD**
+- 🌱 I’m currently learning **Kubernetes, CI/CD, BigData**
 
 - 📫 How to reach me **code.ondacloud@gmail.com**
 
