@@ -13,9 +13,8 @@
 
 - 🌱 I’m currently learning **Kubernetes, CI/CD, BigData**
 
-<br>
+<h3> Profile </h3>
 
-### Profile
 ```json
 {
     "Name": "Jang Jun Sung",
