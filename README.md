@@ -21,7 +21,8 @@
     "BirthYear": "2005.08.09",
     "Field": ["Backend", "Cloud"],
     "Skills": ["AWS", "Docker", "Kubernetes", "Terraform"],
-    "Laguage": [ "C", "Python", "SQL"],
+    "Laguage": [ "C", "Python", "JAVA", "SQL"],
+    "AWSRDS": ["WorldSkills Daejeon Cloud Computing Bronze, Silver, Gold medalist"],
     "MyAddress": [
         {"Email": "code.ondacloud@gmail.com"},
         {"Instagram": "https://www.instagram.com/ondacloud"},
