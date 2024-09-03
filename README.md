@@ -24,7 +24,7 @@
     "Laguage": [ "C", "Python", "JAVA", "SQL"],
     "AWSRDS": [
         {"Worldskills KR 2024 Cloud Computing Encouragement Award"},
-        {"WorldSkills Daejeon 2024 Cloud Computing Silver, Gold medalist"},
+        {"WorldSkills Daejeon 2024 Cloud Computing Silver medalist"},
         {"WorldSkills Daejeon 2023 Cloud Computing Gold medalist"},
         {"WorldSkills Daejeon 2022 Cloud Computing Bronze medalist"}
     ],
