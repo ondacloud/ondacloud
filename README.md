@@ -22,7 +22,12 @@
     "Field": ["Backend", "Cloud"],
     "Skills": ["AWS", "Docker", "Kubernetes", "Terraform"],
     "Laguage": [ "C", "Python", "JAVA", "SQL"],
-    "AWSRDS": ["WorldSkills Daejeon Cloud Computing Bronze, Silver, Gold medalist"],
+    "AWSRDS": [
+        {"Worldskills KR 2024 Cloud Computing Encouragement Award"},
+        {"WorldSkills Daejeon 2024 Cloud Computing Silver, Gold medalist"},
+        {"WorldSkills Daejeon 2023 Cloud Computing Gold medalist"},
+        {"WorldSkills Daejeon 2022 Cloud Computing Bronze medalist"}
+    ],
     "MyAddress": [
         {"Email": "code.ondacloud@gmail.com"},
         {"Instagram": "https://www.instagram.com/ondacloud"},
