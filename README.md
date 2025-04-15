@@ -22,7 +22,7 @@
     "Field": ["Backend", "Cloud"],
     "Skills": ["AWS", "Docker", "Kubernetes", "Terraform"],
     "Laguage": [ "C", "Python", "JAVA", "SQL"],
-    "AWSRDS": [
+    "Awards": [
         {"WorldSkills Daejeon 2025 Cyber Security Silver medalist"},
         {"Worldskills KR 2024 Cloud Computing Encouragement Award"},
         {"WorldSkills Daejeon 2024 Cloud Computing Silver medalist"},
