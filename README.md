@@ -21,7 +21,7 @@
     "BirthYear": "2005.08.09",
     "Field": ["Backend", "Cloud"],
     "Skills": ["AWS", "Docker", "Kubernetes", "Terraform"],
-    "Laguage": [ "C", "Python", "JAVA", "SQL"],
+    "Laguage": ["C", "Python", "JAVA", "SQL"],
     "Awards": [
         {"WorldSkills Daejeon 2025 Cyber Security Silver medalist"},
         {"Worldskills KR 2024 Cloud Computing Encouragement Award"},
