@@ -37,8 +37,8 @@ Profile:
     Email: code.ondacloud@gmail.com
     Instagram: https://www.instagram.com/ondacloud
     Blog:
+      Portfolio: https://bit.ly/ondacloud_dev
       GitHub: https://github.com/ondacloud
       Velog: https://velog.io/@on_cloud
-      Portfolio: https://bit.ly/ondacloud_dev
       Linkdin: https://www.linkedin.com/in/ondacloud/
 ```
