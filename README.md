@@ -16,7 +16,7 @@
 <h3> 📚 Profile </h3>
 
 ```yaml
-Profile: {
+Profile:
   Name: "Jang Jun Sung",
   BirthYear: "2005.08.09",
   Field: ["Backend", "Cloud"],
@@ -32,14 +32,13 @@ Profile: {
   Certificate: [
     {name: "정보기기운용기능사", IssuedAt: "2025.05.22", Number: "25000130034R"},
     {name: "정보처리기능사", IssuedAt: "2024.09.24", Number: "24000130064W"}
-  ]
-}
-MyAddress:
-  Email: code.ondacloud@gmail.com
-  Instagram: https://www.instagram.com/ondacloud
-  Blog:
-    GitHub: https://github.com/ondacloud
-    Velog: https://velog.io/@on_cloud
-    Portfolio: https://bit.ly/ondacloud_dev
-    Linkdin: https://www.linkedin.com/in/ondacloud/
+  ],
+  MyAddress:
+    Email: code.ondacloud@gmail.com
+    Instagram: https://www.instagram.com/ondacloud
+    Blog:
+      GitHub: https://github.com/ondacloud
+      Velog: https://velog.io/@on_cloud
+      Portfolio: https://bit.ly/ondacloud_dev
+      Linkdin: https://www.linkedin.com/in/ondacloud/
 ```
