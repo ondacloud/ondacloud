@@ -15,29 +15,31 @@
 
 <h3> 📚 Profile </h3>
 
-```json
-{
-    "Name": "Jang Jun Sung",
-    "BirthYear": "2005.08.09",
-    "Field": ["Backend", "Cloud"],
-    "Skills": ["AWS", "Docker", "Kubernetes", "Terraform"],
-    "Laguage": ["C", "Python", "JAVA", "SQL"],
-    "Awards": [
-        {"WorldSkills Daejeon 2025 Cyber Security Silver medalist"},
-        {"Worldskills KR 2024 Cloud Computing Encouragement Award"},
-        {"WorldSkills Daejeon 2024 Cloud Computing Silver medalist"},
-        {"WorldSkills Daejeon 2023 Cloud Computing Gold medalist"},
-        {"WorldSkills Daejeon 2022 Cloud Computing Bronze medalist"}
-    ],
-    "MyAddress": [
-        {"Email": "code.ondacloud@gmail.com"},
-        {"Instagram": "https://www.instagram.com/ondacloud"},
-        {"Blog": [
-            {"GitHub": "https://github.com/ondacloud"},
-            {"Velog": "https://velog.io/@on_cloud"},
-            {"Tistory": "https://ondacloud.tistory.com"}
-            ]
-        }
-    ]
+```yaml
+Profile: {
+  Name: "Jang Jun Sung",
+  BirthYear: "2005.08.09",
+  Field: ["Backend", "Cloud"],
+  Skills: ["AWS", "Docker", "Kubernetes", "Terraform"],
+  Language: ["C", "Python", "JAVA", "SQL"],
+  Awards: [
+    "WorldSkills Daejeon 2025 Cyber Security Silver medalist",
+    "Worldskills KR 2024 Cloud Computing Encouragement Award",
+    "WorldSkills Daejeon 2024 Cloud Computing Silver medalist",
+    "WorldSkills Daejeon 2023 Cloud Computing Gold medalist",
+    "WorldSkills Daejeon 2022 Cloud Computing Bronze medalist"
+  ],
+  Certificate: [
+    {name: "정보기기운용기능사", IssuedAt: "2025.05.22", Number: "25000130034R"},
+    {name: "정보처리기능사", IssuedAt: "2024.09.24", Number: "24000130064W"}
+  ]
 }
+MyAddress:
+  Email: code.ondacloud@gmail.com
+  Instagram: https://www.instagram.com/ondacloud
+  Blog:
+    GitHub: https://github.com/ondacloud
+    Velog: https://velog.io/@on_cloud
+    Portfolio: https://bit.ly/ondacloud_dev
+    Linkdin: https://www.linkedin.com/in/ondacloud/
 ```
