@@ -40,5 +40,5 @@ Profile:
       Portfolio: https://bit.ly/ondacloud_dev
       GitHub: https://github.com/ondacloud
       Velog: https://velog.io/@on_cloud
-      Linkdin: https://www.linkedin.com/in/ondacloud/
+      Linkdin: https://www.linkedin.com/in/ondacloud
 ```
