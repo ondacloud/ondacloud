@@ -23,6 +23,7 @@ Profile:
   Skills: ["AWS", "Docker", "Kubernetes", "Terraform"],
   Language: ["C", "Python", "JAVA", "SQL"],
   Awards: [
+    "AI x Failed Idea Contest Challenge Award",
     "WorldSkills Daejeon 2025 Cyber Security Silver medalist",
     "Worldskills KR 2024 Cloud Computing Encouragement Award",
     "WorldSkills Daejeon 2024 Cloud Computing Silver medalist",
