@@ -39,7 +39,7 @@ Profile:
     Instagram: https://www.instagram.com/ondacloud
     Blog:
       Portfolio: https://portfolio.ondacloud.cloud
+      Blog: https://blog.ondacloud.cloud
       GitHub: https://github.com/ondacloud
-      Velog: https://velog.io/@on_cloud
       Linkdin: https://www.linkedin.com/in/ondacloud
 ```
